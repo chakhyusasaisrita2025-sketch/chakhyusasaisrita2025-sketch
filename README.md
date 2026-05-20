@@ -1,4 +1,4 @@
-## <h1 align="center">Hi 👋, I'm Chakhyusa Saisrita Mittra</h1>
+<h1 align="center">Hi 👋, I'm Chakhyusa Saisrita Mittra</h1>
 <h3 align="center">Electrical & Electronics Engineering Undergraduate @ VIT Chennai</h3>
 
 <p align="center">
@@ -13,8 +13,8 @@ Building intelligent systems that solve real-world problems.
 - 🎓 EEE Undergraduate at Vellore Institute of Technology, Chennai
 - 🧠 Passionate about Mathematics, AI, Embedded Systems & Smart Technologies
 - 🔬 Interested in Digital Twins, Computational Modeling & Intelligent Simulations
-- 💻 Exploring Python, MATLAB, Verilog & AI-integrated systems
-- 🌱 Currently learning advanced hardware design and smart automation systems
+- 💻 Exploring AI-integrated systems and intelligent automation
+- 🌱 Constantly learning and building across software + hardware domains
 
 ---
 
@@ -22,6 +22,7 @@ Building intelligent systems that solve real-world problems.
 
 ### Languages
 - Python
+- Java
 - C
 - Verilog
 - MATLAB
@@ -45,12 +46,14 @@ AI-powered theranostic simulation platform for HER2-positive breast cancer using
 
 ---
 
-## 🏆 Activities & Involvement
+## 🏆 Achievements & Involvement
 
-- Research Member @ ACM Student Chapter, VIT Chennai
-- Event Management @ Mathematics Club
-- Event Management @ TEDxVITChennai
-- Participant in national mathematics training programs:
+- 🥈 Runners-Up at the National Level **Safety for Women Prototypes Competition** conducted by **NITI AAYOG** in collaboration with **DELL**
+- 👩‍💻 Part of **Women in STEM – TINKERCAD Automation**
+- 🔬 Research Member @ ACM Student Chapter, VIT Chennai
+- 🎤 Event Management @ TEDxVITChennai
+- ➗ Event Management @ Mathematics Club
+- 📚 Participant in:
   - RAM TP
   - AGMNC
   - JMO
