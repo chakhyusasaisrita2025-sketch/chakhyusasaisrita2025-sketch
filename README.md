@@ -2,8 +2,8 @@
 <h3 align="center">Electrical & Electronics Engineering Undergraduate @ VIT Chennai</h3>
 
 <p align="center">
-Driven by mathematics, engineering, and innovation.<br>
-Building intelligent systems that solve real-world problems.
+Transforming ideas into intelligent technology through innovation, research, and engineering.<br>
+Passionate about building smart systems that create real-world impact.
 </p>
 
 ---
@@ -37,10 +37,14 @@ Building intelligent systems that solve real-world problems.
 
 ---
 
-## 🔬 Featured Project
+## 🔬 Featured Projects
 
 ### Smart Digital Twin
 AI-powered Smart Digital Twin simulation designed for real-time monitoring, predictive analysis, and intelligent system visualization using modern simulation and automation technologies.
+
+### Women Safety & Health Monitoring Prototype
+Smart women safety prototype developed for the NITI AAYOG & DELL Safety for Women competition, featuring period tracking, sensing, and health-monitoring functionalities integrated with automation and intelligent alert systems.
+
 ### NanoHeal
 AI-powered theranostic simulation platform for HER2-positive breast cancer using quantum dots, fluorescence imaging, quantum confinement physics, and targeted drug delivery modeling. Simulates wavelength tuning, HER2 binding, fluorescence intensity, and smart nanoparticle-based therapy using quantum mechanics and nanotechnology.
 
@@ -50,6 +54,8 @@ AI-powered theranostic simulation platform for HER2-positive breast cancer using
 
 - 🥈 Runners-Up at the National Level **Safety for Women Prototypes Competition** conducted by **NITI AAYOG** in collaboration with **DELL**
 - 👩‍💻 Part of **Women in STEM – TINKERCAD Automation**
+- 💻 Participated in **BITWARS**, a premier coding event, and earned certification for technical problem-solving and coding
+- 🗣️ Sahodaya Debater with strong interest in discussions, public speaking, and analytical communication
 - 🔬 Research Member @ ACM Student Chapter, VIT Chennai
 - 🎤 Event Management @ TEDxVITChennai
 - ➗ Event Management @ Mathematics Club
@@ -57,6 +63,8 @@ AI-powered theranostic simulation platform for HER2-positive breast cancer using
   - RAM TP
   - AGMNC
   - JMO
+- Authoring: Currently contributing to a book chapter on Digital Twin in Renewable Technology.
+
 
 ---
 
