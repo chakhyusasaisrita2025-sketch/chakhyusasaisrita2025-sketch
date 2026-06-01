@@ -48,6 +48,15 @@ Smart women safety prototype developed for the NITI AAYOG & DELL Safety for Wome
 ### NanoHeal
 AI-powered theranostic simulation platform for HER2-positive breast cancer using quantum dots, fluorescence imaging, quantum confinement physics, and targeted drug delivery modeling. Simulates wavelength tuning, HER2 binding, fluorescence intensity, and smart nanoparticle-based therapy using quantum mechanics and nanotechnology.
 
+### CubeSAT Sensor Topology Simulator
+This project proposes a self-healing CubeSat sensing architecture in which sensor networks autonomously reorganize
+after random sensor failures. Instead of relying on fixed sensing grids, the CubeSat dynamically reroutes sensing
+responsibilities across remaining active nodes. The architecture is inspired by biological neural systems, recursive
+mathematics, and distributed intelligent networks. The objective is to mathematically improve sensing survivability,
+redundancy, and operational continuity under harsh space conditions.
+
+
+
 ---
 
 ## 🏆 Achievements & Involvement
