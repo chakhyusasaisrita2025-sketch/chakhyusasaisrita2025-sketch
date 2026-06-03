@@ -73,6 +73,8 @@ redundancy, and operational continuity under harsh space conditions.
   - AGMNC
   - JMO
 - Authoring: Currently contributing to a book chapter on Digital Twin in Renewable Technology.
+- Teaching Assistant in Maths at RAM TP (Organised at IIT Madras)
+
 
 
 ---
